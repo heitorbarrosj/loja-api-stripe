@@ -25,8 +25,3 @@ Edit `.env` and set:
 
 Import `database.sql` into MySQL before opening the project.
 
-## Open
-
-Use:
-
-`http://localhost/ApiStripe/index.php`

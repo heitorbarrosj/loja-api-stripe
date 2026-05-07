@@ -1,10 +1,14 @@
-# Stripe PHP Store
+# Loja API Stripe
+
+Loja virtual usando PHP com integracao da API de pagamento Stripe feito em vibe code.
 
 This project includes:
 
-- 4 fixed products in BRL: `R$ 80,00`, `R$ 60,00`, `R$ 40,00`, `R$ 20,00`
+- 50 products in BRL with prices from `R$ 10,00` to `R$ 100,00`
+- product search and price sorting
 - account registration
 - account login
+- customer address editing
 - Stripe Checkout payment flow
 - MySQL order storage
 - a `My Customers` page where the logged-in customer can see their orders
